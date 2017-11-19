@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/g1aurav/gmail-autoreply/issues"
   },
-  "homepage": "https://github.com/g1aurav/gmail-autoreply#readme"
+  "homepage": "https://github.com/g1aurav/gmail-autoreply#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^22.2.0",
+    "install": "^0.10.2",
+    "npm": "^5.5.1"
+  }
 }
